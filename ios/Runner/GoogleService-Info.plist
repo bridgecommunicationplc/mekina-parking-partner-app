@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>634212955155-sec50b4ih3ed5kb3k0gfk06a98gjm848.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.634212955155-sec50b4ih3ed5kb3k0gfk06a98gjm848</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>634212955155-7u69fr9149gg8s5rd9agsjpdij9hifg9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBru7hVSQzpdMbIToM1ML3UGZKRjGH-qgo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>634212955155</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mekinaparking.owner.staging</string>
+	<key>PROJECT_ID</key>
+	<string>staging-mekina-parking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>staging-mekina-parking.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:634212955155:ios:a1ed48aeb774303bf5bbe6</string>
+	<key>DATABASE_URL</key>
+	<string>https://staging-mekina-parking-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

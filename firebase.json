@@ -1,0 +1,30 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "staging-mekina-parking",
+          "appId": "1:634212955155:android:c2f01be803358d49f5bbe6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "staging-mekina-parking",
+          "appId": "1:634212955155:ios:a1ed48aeb774303bf5bbe6",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "staging-mekina-parking",
+          "configurations": {
+            "android": "1:634212955155:android:c2f01be803358d49f5bbe6",
+            "ios": "1:634212955155:ios:a1ed48aeb774303bf5bbe6"
+          }
+        }
+      }
+    }
+  }
+}
