@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "492575920149",
+    "firebase_url": "https://mekina-parking-default-rtdb.firebaseio.com",
+    "project_id": "mekina-parking",
+    "storage_bucket": "mekina-parking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492575920149:android:aee992db57f52dec1ebe1c",
+        "android_client_info": {
+          "package_name": "com.mekinaparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492575920149-hag5cra442944g7mnfg6lt26n8i6p7m4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking",
+            "certificate_hash": "a1200a0278a4b096d0fdf54a934df10faf71f5e7"
+          }
+        },
+        {
+          "client_id": "492575920149-irkdeu94da6utovlcf6s0muna66lv84h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking",
+            "certificate_hash": "fac44db53fbd359528d072a82a2e520e9e962c6f"
+          }
+        },
+        {
+          "client_id": "492575920149-o28l34271tpts0ra5qluka9f0e380f9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking",
+            "certificate_hash": "b99da33c7b5c3aaaf13aea76805a6af775cd41e2"
+          }
+        },
+        {
+          "client_id": "492575920149-o5drrg8ppo928vemrkugl3e5pq778bnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking",
+            "certificate_hash": "c577d04f5e73c7af239fac2b83973aab00f9278c"
+          }
+        },
+        {
+          "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL2WA4OFg75TovqD271hj9IZLSqmzxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492575920149-g8pmusjrs7f3431mucltuh6t7g1ervru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mekinaparking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492575920149:android:5937a6c4ac866da61ebe1c",
+        "android_client_info": {
+          "package_name": "com.mekinaparking.owner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492575920149-1q1kakc5c9vmamakbg21gahhte935ae1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.owner",
+            "certificate_hash": "b99da33c7b5c3aaaf13aea76805a6af775cd41e2"
+          }
+        },
+        {
+          "client_id": "492575920149-95b56qfepm31pdsm5f9u4a4uk665hcc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.owner",
+            "certificate_hash": "c577d04f5e73c7af239fac2b83973aab00f9278c"
+          }
+        },
+        {
+          "client_id": "492575920149-dvnmnjpu0c9eces7eue9t98ar2oag672.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.owner",
+            "certificate_hash": "a1200a0278a4b096d0fdf54a934df10faf71f5e7"
+          }
+        },
+        {
+          "client_id": "492575920149-ejdms7pfbupoi31prtmqclk6ltptnral.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.owner",
+            "certificate_hash": "b81425eb75847cefafbc8512e398b9b49000f4f2"
+          }
+        },
+        {
+          "client_id": "492575920149-oti0kc20fom0hc2hhhggfedd8plkcb0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.owner",
+            "certificate_hash": "fac44db53fbd359528d072a82a2e520e9e962c6f"
+          }
+        },
+        {
+          "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL2WA4OFg75TovqD271hj9IZLSqmzxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492575920149-g8pmusjrs7f3431mucltuh6t7g1ervru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mekinaparking"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492575920149:android:8010f6ab51fdc51b1ebe1c",
+        "android_client_info": {
+          "package_name": "com.mekinaparking.watchman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492575920149-uktka1c23liig44lidh4m8av2oiiqvh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.watchman",
+            "certificate_hash": "fac44db53fbd359528d072a82a2e520e9e962c6f"
+          }
+        },
+        {
+          "client_id": "492575920149-usuti1e7vs21i6m6q2vop1oe8jilq8r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mekinaparking.watchman",
+            "certificate_hash": "b0d56f5f32c70eac85ebab2030a8a512ac1b2ab2"
+          }
+        },
+        {
+          "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIL2WA4OFg75TovqD271hj9IZLSqmzxBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492575920149-almp27d73p9r371jl3k5ttn6i7osqcd0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "492575920149-g8pmusjrs7f3431mucltuh6t7g1ervru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mekinaparking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
